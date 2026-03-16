@@ -7,6 +7,7 @@ I am contributing to an open-source on GitHub clone it ready to use!
 
              https://github.com/hnurnet/vite_tail
 
-Developer Hassan-Nur 
-https://hnurm.com
-https://www.linkedin.com/in/hassan-m-6ba3a6164/
+Developer 
+Hassan-Nur 
+            https://hnurm.com
+            https://www.linkedin.com/in/hassan-m-6ba3a6164/
